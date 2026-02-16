@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# weitere Ausnahmen, eventuell zurücknenehmen
+main.py
+Untitled-1.ipynb
+Untitled-2.ipynb
+# ioc_country_codes.ipynb
+ioc_country_codes.csv
